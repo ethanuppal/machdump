@@ -20,3 +20,7 @@ Then, install machdump with:
 ```bash
 sudo cp machdump /usr/local/bin
 ```
+
+## Similar Projects
+
+There is a similar project under an identical name, which I found after I had already named this: https://github.com/GeoSn0w/MachDump. As of writing this, another person has created a parser in Zig very recently: https://gpanders.com/blog/exploring-mach-o-part-1/.
